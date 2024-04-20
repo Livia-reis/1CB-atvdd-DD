@@ -1,0 +1,31 @@
+*{
+img{
+width:800px;
+height:400px;
+}
+ /* h1{
+    border: 5px solid rgb(77, 224, 250);
+    padding: 20px;
+    margin:0;
+    background-color: rgb(107, 220, 240);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+} */
+
+.w{
+ color: aliceblue;
+}
+
+.bl{
+    background-color: black;
+}
+
+.br{
+    border: 2px solid black;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+}
